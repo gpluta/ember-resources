@@ -10,6 +10,11 @@
 - **books**
   - [ember-cli 101](https://leanpub.com/ember-cli-101)
   - [rock and roll with ember.js](https://leanpub.com/ember-cli-101)
+- **podcasts**
+  - [ember land](http://ember.land/)
+  - [ember weekend](https://emberweekend.com/episodes)
+- **screencasts**
+  - [build lab](http://buildlab.co/u/validkeys/channels/1)
 - **discuss**
   - [discuss @ emberjs.com](http://discuss.emberjs.com/)
 - **misc**
